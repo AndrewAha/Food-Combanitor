@@ -1,0 +1,9 @@
+pathlab
+numpy
+pillow
+torch
+transformers
+gradio
+diffusers
+accelerate
+huggingface_hub
