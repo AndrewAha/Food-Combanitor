@@ -7,3 +7,4 @@ gradio
 diffusers
 accelerate
 huggingface_hub
+rembg
