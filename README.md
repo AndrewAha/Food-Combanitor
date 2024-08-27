@@ -5,3 +5,6 @@
 ```
 pip install -r requirements.txt
 ```
+
+## Step
+### 1. Background Removal
